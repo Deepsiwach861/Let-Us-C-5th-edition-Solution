@@ -1,0 +1,5 @@
+This is the folder of question H
+here you will find three copies of each subpart of H question with three different extensions.
+a.c is coded file in which c language code is written.
+a.o is the object file created by the compiler to convert the hight language code to low level(machine level)
+a.exe is the executive file which can be run in any computer without compiling means this is the setup of any software you develop.
