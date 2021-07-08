@@ -1,0 +1,38 @@
+a) int=314.562*150 
+Error: (int is a keyword and keyword cannotbe used as variable)
+
+b) name='Ajay';
+Error: (Ajay is an invalid character constant)
+
+c) varchar ='3';
+Error: (Inverted commas should be in same side (left))
+
+d) 3.14*r*r*h = vol_of_cyl;
+Error: (On the left side of Assignment (=) operator there cannot be an expression)
+
+e) k=(a*b)(c+(2.5a+b)(d+e);
+Error: (Arithmetic operators are missing in eqution)
+
+f) m_inst = rate of intrest* amount in rs;
+Error: (Invalid variableson RHS of assignment operators)
+
+g) si = principal*rateofinterest*numberofyears/100;
+(No error but brackets will make it more understable (principal*rateofinterest*numberofyears)/100)
+
+h) area=3.14*r**2;
+Error: (There is no such exponential (**) symbol in C)
+
+i) volume= 3.14*r^2*h;
+Error: (There is no such exponential (^) symbol in C)
+
+j) k=((a*b)+c)(2.5*a+b);
+Error: (Operator between two brackets is absent)
+
+k) a=b=3=4;
+Error: (confusion in value of a and b or invalid initialization);
+
+l) count = count+1;
+No Error
+
+m) date ='2 Mar 04';
+Error: (invalid character constant)
