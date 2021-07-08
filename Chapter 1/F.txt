@@ -1,0 +1,15 @@
+a) 
+ans:- 0 2 0.000000 2.000000
+b)
+ans:- a = 0 b = -6
+c)
+ans:- 1
+d)
+ans:- nn
+
+
+      nn
+
+      nn /n/n nn/n
+e)
+ans:- values of a and b entered by keyboard
