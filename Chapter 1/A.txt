@@ -1,0 +1,15 @@
+BASICSALARY is a valid variable.
+_basic is a valid variable name.
+basic-hra is not a valid variable (Hypen is used while in variable name only alphabets, digits and an underscore can be used)
+#MEAN is invalid (# is used)
+group. is invaid (. is used)
+422 is invalid (Starting letter of variable can only be an alphabet or an Underscore not a digit)
+population in 2006 is invalid (blanks is not allowed in variable name)
+over time is invalid (same as above)
+mindovermatter is valid
+FLOAT is valid
+hello is valid
+queue. invalid (. is used)
+team'svictory is invalid (' is used)
+Plot#3 is invalid (# is used)
+2015_DDAY is invalid (Digit can not be the first letter of variable name.)
