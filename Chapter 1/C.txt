@@ -1,0 +1,22 @@
+a) 
+sol.	  float g = 2/2+2*4/2-2+2.5/3  solve division
+	  g = 1+2*4/2-2+0.8            solve * and /
+	  g = 1+4-2+0.8                solve +
+	  g = 5.8-2                    solve -
+	  g = 3.8                      ans
+
+b)
+sol.	  int on = 4*1/2+3/2*1+2+3.2  solve / and *
+	  on = 4/2+3/2+2+3.2          solve / 
+	  on = 2+1+2+3.2	      solve +
+	  on = 8		      Ans
+c)
+sol. 	  int s = 4*2/4-6/2+2/3*6/2     solve / and *
+	  s = 8/4-3+0*3			solve /
+	  s = 2-3+0			solve + and -
+	  s = -1			Ans
+d) 	  
+sol.	  int s = 1/3*4/4-6/2+2/3*6/3;  solve / and *
+	  s = 0*1-3+0*2			solve *
+	  s = 0-3+0			solve + and -
+	  s = -3			Ans
